@@ -1,6 +1,6 @@
 .container{
     height: 100px;
-    background-color: skyblue;
+    background-color: rgb(135, 165, 235);
     background-image: url("../img/pattern.png");
     background-size: 40% 190%;
 }
@@ -9,4 +9,16 @@
     height: 100px;
     width: 150px;
     
+}
+
+.text1{
+    color: gray;
+}
+
+.text2{
+    color: skyblue;
+}
+
+.evidenziato{
+    background-color: yellow;
 }
