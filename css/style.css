@@ -1,0 +1,12 @@
+.container{
+    height: 100px;
+    background-color: skyblue;
+    background-image: url("../img/pattern.png");
+    background-size: 40% 190%;
+}
+
+.logo{
+    height: 100px;
+    width: 150px;
+    
+}
