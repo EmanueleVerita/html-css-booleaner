@@ -1,6 +1,6 @@
 .container{
     height: 100px;
-    background-color: rgb(135, 165, 235);
+    background-color:#4EA0FF;
     background-image: url("../img/pattern.png");
     background-size: 40% 190%;
 }
@@ -16,9 +16,23 @@
 }
 
 .text2{
-    color: skyblue;
+    color: #4EA0FF;
 }
 
 .evidenziato{
     background-color: yellow;
+}
+
+thead{
+    background-color: #20A9E5;
+    color: white;
+    text-align: left;
+}
+
+.row{
+    background-color: #B1E5F2;
+}
+
+.right{
+    width: 50%;
 }
